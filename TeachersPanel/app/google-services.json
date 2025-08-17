@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "734601033253",
+    "firebase_url": "https://attendance-afd79-default-rtdb.firebaseio.com",
+    "project_id": "attendance-afd79",
+    "storage_bucket": "attendance-afd79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734601033253:android:0606c1a6ea63a4fddd31cc",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqi875SZ1zDxkcAb_Ql87Cl4ULmEuKO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734601033253:android:72374730065ef268dd31cc",
+        "android_client_info": {
+          "package_name": "com.example.attendence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqi875SZ1zDxkcAb_Ql87Cl4ULmEuKO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734601033253:android:f0b38e381799a24add31cc",
+        "android_client_info": {
+          "package_name": "com.example.teacherspanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqi875SZ1zDxkcAb_Ql87Cl4ULmEuKO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
